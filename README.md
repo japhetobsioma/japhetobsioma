@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Dart and Flutter
+- 💬 Ask me about Dart and Flutter
+- 📫 How to reach me: Check my personal website ([japhetobsioma.github.io](https://japhetobsioma.github.io))
+- ⚡ Fun fact: My full name is Japhet Mert
+
 <!--
 **japhetobsioma/japhetobsioma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
